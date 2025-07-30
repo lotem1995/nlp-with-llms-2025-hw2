@@ -8,3 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
+
+#model and results
+task14_results.csv
+gold_labels.pkl
+gold_labels.pkl
+deberta_preds.pkl
+grok_key.ini
+llm_preds.pkl
+agreement.json
+grok_key.ini
